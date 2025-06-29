@@ -8,14 +8,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#1a1a1a", // Deep black for primary text
-        secondary: "#9f8e7d", // Warm beige for accents
-        accent: "#d4af37", // Gold accent
-        light: "#f5f5f5", // Light background color
-        "neutral-100": "#ffffff",
-        "neutral-200": "#f8f8f8",
-        "neutral-300": "#f0f0f0",
-        "neutral-400": "#e0e0e0",
+        primary: "#1a1a1a",
+        secondary: "#9f8e7d",
+        accent: "#d4af37",
+        light: "#f5f5f5",
       },
       fontFamily: {
         sans: ["var(--font-montserrat)", "var(--font-poppins)", "sans-serif"],
@@ -27,4 +23,7 @@ module.exports = {
     },
   },
   plugins: [],
+  corePlugins: {
+    preflight: true,
+  },
 };
