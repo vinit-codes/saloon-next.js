@@ -121,5 +121,4 @@ This project is available for personal and commercial use.
 
 For any inquiries, please contact:
 
-- Email: your.email@example.com
-- Website: www.yourwebsite.com
+- Email: kunduvineeth0@gmail.com
