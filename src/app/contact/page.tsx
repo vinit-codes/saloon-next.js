@@ -190,7 +190,7 @@ export default function ContactPage() {
         <div className="container">
           <h2 className="section-title">Find Us</h2>
           <div className="section-subtitle">
-            We're conveniently located in the heart of the city
+            Were conveniently located in the heart of the city
           </div>
 
           <div className="mt-12 h-[400px] bg-neutral-300 rounded-lg overflow-hidden">
@@ -273,7 +273,7 @@ export default function ContactPage() {
                   Thank You!
                 </h3>
                 <p className="text-green-700 mb-6">
-                  Your appointment request has been received. We'll contact you
+                  Your appointment request has been received. Well contact you
                   shortly to confirm your booking.
                 </p>
                 <button
