@@ -10,6 +10,12 @@ This website provides a seamless experience for salon clients to explore service
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live site here: [https://saloon-next-js-9i6e.vercel.app/](https://saloon-next-js-9i6e.vercel.app/)
+
+---
+
 ## ✨ Features
 
 - Home page with hero section and salon introduction
@@ -98,6 +104,8 @@ You can deploy this Next.js app to platforms like **Vercel**, **Netlify**, or an
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+---
 
 ## Contact
 
